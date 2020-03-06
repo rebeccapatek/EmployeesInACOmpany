@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.1/classes.deps.json
+/Users/rebeccapatek/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.json
+/Users/rebeccapatek/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.1/classes.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.1/classes.dll
+/Users/rebeccapatek/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.1/classes.pdb
+/Users/rebeccapatek/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.1/classes.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.1/classes.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.1/classes.dll
+/Users/rebeccapatek/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.1/classes.pdb
